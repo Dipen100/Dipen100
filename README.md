@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/thapadipen10" target="blank"><img src="https://img.shields.io/twitter/follow/thapadipen10?logo=twitter&style=for-the-badge" alt="thapadipen10" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Javascript, Java, Flutter**
+- 🌱 I’m currently learning **Django, Javascript, Flutter**
 
 - 💬 Ask me about **Django, Js, Flutter**
 
